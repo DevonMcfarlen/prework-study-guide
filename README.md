@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-A way to quickly reference notes on basic HTMML, CSS, and Javascript functionality, and the basic Git commands for Git Bash. Use it if you're blanking on something, and cant remember what its called, or how it works!
+A way to quickly reference notes on basic HTML, CSS, and Javascript functionality, and the basic Git commands for Git Bash. Use it if you're blanking on something, and cant remember what its called, or how it works!
 If you want a suggestion on what to study, the Chrome Devtools console will have a randomly selected topic for you to study!
 
 ## Credits
